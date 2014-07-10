@@ -1,3 +1,3 @@
-After the project, you can review the solution here:
+A miniature port of some of the prominent features of ActiveRecord.
 
-* https://github.com/appacademy-solutions/active_record_lite/tree/solution
+Built with Ruby.
